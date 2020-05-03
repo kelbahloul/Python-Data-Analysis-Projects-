@@ -11,7 +11,7 @@ Jupuyter Notebook - "pip install fbprophet"
 
 or
 
-Anaconda Command Client - "conda install -c conda-forge fbprophet"
+Anaconda Prompt - "conda install -c conda-forge fbprophet"
 
                           or
                         - "conda install -c conda-forge/label/cf201901 fbprophet"
