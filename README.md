@@ -35,6 +35,8 @@ Dependencies:
     bash Dependencies.sh
  </code>
 
+### Project #2: Time-Series Forecasting Analysis of TSLA
+
 
                        
 
