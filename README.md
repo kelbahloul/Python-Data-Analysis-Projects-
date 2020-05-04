@@ -1,23 +1,41 @@
-# Python-Data-Analysis-Projects-
-This repository is reserved for all data analysis done with Jupyter Notebook as more would be posted as soon as the analytical data is completed and checked for acurracy. 
+# Python-Data-Analysis-Projects
 
-The Data analysis projects that will be posted consist of data visualization and predictive analysis of the dataset. 
+This repository is used for my mini-projects of trend analysis upon various equities which
+are marketed upon different exchanges such as the NYSE or NASDAQ
 
-  Fbprophet, is an open source released by Facebook in order to provide some useful guidance for producing forecast at scale. By default, it would divide a time series into trend and seasonality, which might contain yearly, weekly and daily. 
+### Project #1: Time-Series Forecasting Analysis of LLY
 
-To install Fbprophet:
+Dependencies:
+- Python 2.7
+    
+    To check if you have python installed, please type in any console terminal
+    
+    <code> python -v </code>
+- Python Libraries ( pandas, matplotlib, fbprophet )
 
-Jupuyter Notebook - "pip install fbprophet"
+<code>
+    - python -m pip install matplotib
+    
+    - python -m pip install matplotib
+    
+    - python -m pip install fbprophet
+</code>
+  
+ - Dependencies Installations: There is a shell script you may execute for automation
+ 
+ Windows
+ 
+ <code>
+    bash -c "bash Dependencies.sh"
+ </code>
+ 
+ Linux / Mac OS
+ 
+ <code>
+    bash Dependencies.sh
+ </code>
 
-or
 
-Anaconda Prompt - "conda install -c conda-forge fbprophet"
-
-                          or
-                        - "conda install -c conda-forge/label/cf201901 fbprophet"
-                        
-                          or
-                        - "conda install -c conda-forge/label/cf202003 fbprophet"
                        
 
 
